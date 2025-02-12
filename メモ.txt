@@ -1,0 +1,5 @@
+0. dockerを起動しておく
+1. 所定のフォルダで「code .」でVSCodeを起動
+2. コマンドパレットを開き「Dev Containers: Open Folder in Container」を選択
+3. 次にコンテナで実装する開発環境を選ぶ。ここでは「Node.js」を選択する
+
